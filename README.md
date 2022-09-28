@@ -5,7 +5,9 @@
 ##
 <div>
   <a href="https://www.linkedin.com/in/izabella-porfírio" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>  
+</div>
+ <a href="https://instagram.com/izabella_larissa"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<div>
 <div>
   <a href="https://github.com/bellaiza">
   <image height="165em" src=https://github-readme-stats.vercel.app/api?username=bellaiza&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
