@@ -8,3 +8,9 @@
 </div>
  <a href="https://instagram.com/izabella_larissa"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <div>
+
+<div>
+    <a href="https://github.com/bellaiza>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bellaiza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexapim&layout=compact&langs_count=7&theme=dracula"/>
+</div>
