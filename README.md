@@ -11,8 +11,8 @@
 
 <div>
   <a href="https://github.com/bellaiza">
-  <image height="165em" src=https://github-readme-stats.vercel.app/api?username=bellaizali&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <image height="165em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=bellaizali&theme=midnight-purple&layout=compact&langs_count=16"/>
+  <image height="165em" src=https://github-readme-stats.vercel.app/api?username=bellaiza&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <image height="165em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=bellaiza&theme=midnight-purple&layout=compact&langs_count=16"/>
 </div>
 
 <div style="display: inline_block"><br>
