@@ -24,6 +24,6 @@
   <image align="center" alt="Fran-C" heigh="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
 </div>
 
- **[profile visits:](#)**
+- Profile visits
 
 ![profile views counter](https://count.getloli.com/get/@bellaiza?theme=rule34)
