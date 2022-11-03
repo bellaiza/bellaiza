@@ -22,6 +22,6 @@
 
 </div>
 
-- Profile visits
+## Profile views:
 
 ![profile views counter](https://count.getloli.com/get/@bellaiza?theme=rule34)
