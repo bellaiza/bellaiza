@@ -21,3 +21,14 @@
     </div>
 
 </div>
+
+<h2 align="center">42 School Projects</h2> <br>  
+
+<div align="center">
+
+<a href="https://github.com/bellaiza/libft">![42 Badge](https://game.42sp.org.br/static/assets/achievements/libfte.png)</a>
+<a href="https://github.com/bellaiza/get_next_line">![42 Badge](https://game.42sp.org.br/static/assets/achievements/get_next_linem.png)</a>
+<a href="https://github.com/bellaiza/printf">![42 Badge](https://game.42sp.org.br/static/assets/achievements/ft_printfe.png)</a>
+<a>![42 Badge](https://game.42sp.org.br/static/assets/achievements/born2berootm.png)</a>
+    
+</div>
