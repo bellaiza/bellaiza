@@ -23,6 +23,7 @@
 <a href="https://github.com/bellaiza/get_next_line">![42 Badge](https://game.42sp.org.br/static/assets/achievements/get_next_linem.png)</a>
 <a href="https://github.com/bellaiza/printf">![42 Badge](https://game.42sp.org.br/static/assets/achievements/ft_printfe.png)</a>
 <a>![42 Badge](https://game.42sp.org.br/static/assets/achievements/born2berootm.png)</a>
+<a href="https://github.com/bellaiza/so_long">![42 Badge](https://game.42sp.org.br/static/assets/achievements/so_longe.png)</a>
     
 </div>
 
