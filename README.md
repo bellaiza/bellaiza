@@ -1,7 +1,7 @@
 ### Hi there 💕
-- 🌙 I'm Izabella/Bella
-- 📚 I'm a student in Software Engineering at 42São Paulo and I'm also a Marketing student at UAM
-- ❤️ I like my dog, books, playing games, listening to music (kpop) and watching animes and kdramas
+- 🌙 I'm Izabella.
+- 📚 I'm a student in Software Engineering at 42São Paulo.
+- ❤️ I’m currently learning C, Java, HTML & CSS.
 
 ## Languages
 🇺🇸 American English
