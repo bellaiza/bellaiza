@@ -1,7 +1,6 @@
 ### Hi there 💕
 - 🌙 I'm Izabella.
-- 📚 I'm a student in Software Engineering at 42São Paulo.
-- ❤️ I’m currently learning C, HTML & CSS.
+- ❤️ I’m currently learning HTML & CSS.
 
 ## Languages
 🇺🇸 American English
